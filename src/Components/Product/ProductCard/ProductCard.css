@@ -1,0 +1,9 @@
+.imgHover{
+    background-color: black;
+    transition: 1s;
+    display: block;
+}
+
+.image:hover{
+    transform: scale(1,2);
+}
